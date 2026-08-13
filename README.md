@@ -13,46 +13,14 @@ Python · Django · Django REST Framework · FastAPI
 PostgreSQL · SQLAlchemy · Redis · Celery
 
 **Engineering**  
-Docker · Git · GitHub Actions · pytest · Alembic · REST APIs
+Docker · Git · GitHub Actions · pytest · Alembic
 
-## Featured Projects
+## Engineering Focus
 
-### [OrderFlow API](https://github.com/FerreiraVeneto/orderflow-api)
-
-Transactional order and inventory API built with Django REST Framework and PostgreSQL.
-
-**Focus:** transactions, row-level locking, inventory consistency and concurrency-safe stock operations.
-
----
-
-### [Booking API](https://github.com/FerreiraVeneto/booking-api)
-
-Booking service built with FastAPI, SQLAlchemy and PostgreSQL.
-
-**Focus:** timezone-aware scheduling, conflict validation and concurrency-safe double-booking prevention.
-
----
-
-### [Integration Hub](https://github.com/FerreiraVeneto/integration-hub)
-
-Asynchronous webhook processing service built with FastAPI, PostgreSQL, Redis and Celery.
-
-**Focus:** idempotency, retries, background workers and safe asynchronous event processing.
-
----
-
-### [Reconciliation Engine](https://github.com/FerreiraVeneto/reconciliation-engine)
-
-CLI reconciliation engine for processing orders and payments with Python and PostgreSQL.
-
-**Focus:** streaming CSV processing, transactional imports, reconciliation logic and server-side cursors.
-
-## Currently Focused On
-
-- Backend engineering with Python
-- API design and architecture
+- API design and backend architecture
 - PostgreSQL and transactional systems
-- Concurrency and asynchronous processing
+- Concurrency and data consistency
+- Asynchronous processing
 - Automated testing and CI/CD
 
 ## Contact
